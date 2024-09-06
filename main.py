@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 import os
 
-api_key=os.environ[SOME_SECRET]
+api_key=os.environ["SOME_SECRET"]
 dic={}
 players=["Cs_oJay","Folke-","rekz","DEBRE","Rollo-_-",
          "Nordby","Marden","kjaer666","Hanth","SlyGoingFTW",
