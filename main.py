@@ -8,8 +8,8 @@ api_key=os.environ["SOME_SECRET"]
 dic={}
 players=["Cs_oJay","Folke-","rekz","DEBRE","Rollo-_-",
          "Nordby","Marden","kjaer666","Hanth","SlyGoingFTW",
-         "Boye-_-","julius1337","entire444","MolO11","Bukhavez-",
-         "gleerup","bamme","screens-","caze","L2PaaDetBeat",
+         "Boye-_-","julius1337","entire-","MolO11","Bukhavez-",
+         "gleerup","bamme","--rosen","caze","ToweR",
          "Ekke","TroskiDk","_PatchI_","Ep1sk_","BqreBedre"]
 
 for player in players:
